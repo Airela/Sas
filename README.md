@@ -1,2 +1,2 @@
 # Secret Agent Supply
-Codecademy - Build Websites from Scratch - week 6 project - Responsive design.
+Codecademy - Build Websites from Scratch - online shop project - Responsive design.
